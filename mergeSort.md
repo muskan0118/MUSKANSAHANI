@@ -1,4 +1,6 @@
-PART A
+Merge Sort Dry Run Task 
+
+PART A: Divide the Array
 
 Original Array:
 {38, 27, 43, 3, 9, 82, 10}
