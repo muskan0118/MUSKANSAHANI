@@ -1,0 +1,21 @@
+1.Insertion sort
+2.Quick sort
+3.heap sort
+4.merge sort
+5.bubble sort
+6.selection sort
+7.quick sort
+8.heap sort
+9.merge sort
+10.insertion sort-
+11.bubble sort
+12.merge sort
+13.Heap sort
+14.bubble sort
+15.selection sort
+16.quick sort
+17.merge sort
+18.heap sort
+19.Insertion sort
+20.insertion , selection, bubble sort
+bonus -> heap sort because sort has guaranteed time complexity of O(nlogn)
